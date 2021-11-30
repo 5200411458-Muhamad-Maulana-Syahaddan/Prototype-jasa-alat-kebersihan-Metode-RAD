@@ -1,0 +1,7 @@
+Gambaran Umum Sistem
+Pada tahap ini akan menjelaskan proses-proses aplikasi yang akan berjalan dan bagaimana proses-proses tersebut berkaitan dalam aplikasi. Proses - proses tersebut diantaranya :
+1. User menggunakan aplikasi untuk memesan paket pembersihan rumah.
+2. Pemesanan tersebut akan dimasukan ke database dan di beri id.
+3. Pekerja dapat menerima pekerjaan dari menu yang disediakan sesuai dari id pemesanan.
+4. Pekerja dapat mengirimkan bukti bahwa sudah mengerjakan.
+5. Admin mengecek dan mengkonfirmasi bahwa pekerjaan sudah dikerjakan dan pekerja mendapatkan upah.
