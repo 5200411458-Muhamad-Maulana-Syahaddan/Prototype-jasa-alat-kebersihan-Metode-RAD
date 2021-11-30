@@ -1,4 +1,3 @@
-Implementasi (Implementation)
 Tahap Pertama yaitu tahap pemasangan sebuah System dan melakukan pengujian pada system. dalam pengujian sebuah aplikasi menggunakan metode BlackBox yang dimana mengecek pada system terdapat ada bug atau gangguan atau cacat terhadap suatu system sebelum dirilis secara resmi dalam penggunaan oleh client.
 Tahap Kedua yaitu perbaikan terhadap suatu bug atau gangguan atau cacat terhadap suatu system yang ditemukan. dan melakukan pengujian terhadap client
 Tahap Ketiga adalah perbaikan terakhir terhadap suatu System saat pengujian terhadap user atau client. yang dimana suatu system tersebut saat diuji terhadap client sesuai dengan fitur dan functionnya pada System
