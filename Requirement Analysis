@@ -1,0 +1,37 @@
+Pada tahap ini kelompok kami menggunakan analisa kebutuan dengan metode wawancara, setelah mewawan cara tim kami mendapatkan 
+tugas membangun aplikasi jasa pembersihan rumah berbasis web. Adapun fitur-fitur yang diminta oleh client adalah :
+
+Fitur Admin
+1. Login sebagai Admin
+2. menambah, mengedit dan menghapus paket dari jasa pembersih rumah
+3. Menampilkan data pekerja, memecat pekerja, Menerima Pekerja baru.
+4. Manage Pesanan
+
+Fitur Pekerja
+1. Login sebagai Pekerja
+2. Mencari pekerjaan pembersihan rumah di menunya.
+3. Mengambil pekerjaan.
+4. Merubah Password, Profile
+5. Register Pekerja
+
+Fitur User
+1. Login sebagai User
+2. Order jasa / memilih paket.
+3. Pembayaran.
+4. Merubah Password, Profile.
+5. Register User
+
+Kebutuhan Hardware
+  a. Processor : Intel Core i3 CPU 1.7 Ghz 
+  b. HDD : 500GB 
+  c. VGA : NVIDIA Geforce 930m 1GB 
+  d. RAM : 2GB 
+  e. Layar : 14 inch
+
+Kebutuhan Software
+  a. Mysql 
+  b. Xampp
+  c. Windows
+  d. Browser
+  e. Visual Studio Code
+  f. Adobe XD
